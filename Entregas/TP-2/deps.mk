@@ -1,0 +1,1 @@
+algogram: tp2.o fun_aux.o red_social.o vector.o abb.o pila.o heap.o hash.o lista.o
